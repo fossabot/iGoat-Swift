@@ -3,6 +3,7 @@
 ____
 
 ## OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/OWASPiGoat/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FiGoat-Swift.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FiGoat-Swift?ref=badge_shield)
 
 This is a Swift version of original iGoat [![Objective C](https://img.shields.io/badge/Objective-C-blue.svg)](https://github.com/OWASP/igoat) project. Using OWASP iGoat, you can learn exploiting and defending vulnerabilities in iOS Swift applications. Developed using [![Swift 4](https://img.shields.io/badge/Swift-4-blue.svg)](https://developer.apple.com/swift/) [![Ruby](https://img.shields.io/badge/Ruby--blue.svg)]()
 
@@ -46,3 +47,7 @@ To contribute to iGoat project, please contact __Swaroop__ ( swaroop.yermalkar@o
 [masbog](https://github.com/masbog) <br>
 [Arun](https://twitter.com/he_hacks)
 <br> Your name can be here :) We give cool iGoat t-shirt and swag!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FiGoat-Swift.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FiGoat-Swift?ref=badge_large)
